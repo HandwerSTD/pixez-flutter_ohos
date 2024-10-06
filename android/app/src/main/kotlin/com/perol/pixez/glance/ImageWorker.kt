@@ -9,7 +9,7 @@
 //import androidx.core.app.NotificationCompat
 //import androidx.glance.GlanceId
 //import androidx.glance.appwidget.GlanceAppWidgetManager
-//import androidx.glance.appwidget.state.updateAppWidgetState
+//import androidx.glance.appwidget.state.updateAppMaterialState
 //import androidx.work.*
 //import coil.annotation.ExperimentalCoilApi
 //import coil.imageLoader
@@ -103,7 +103,7 @@
 //        glanceIllust: GlanceIllust,
 //        url: String
 //    ) {
-//        updateAppWidgetState(context, glanceId) { prefs ->
+//        updateAppMaterialState(context, glanceId) { prefs ->
 //            prefs[ImageGlanceWidget.sourceUrlKey] = url
 //            prefs[ImageGlanceWidget.illustIdKey] =
 //                "pixez://pixiv.net/artworks/${glanceIllust.illustId}"

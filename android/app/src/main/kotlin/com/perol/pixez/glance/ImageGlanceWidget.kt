@@ -150,7 +150,7 @@
 //        glanceId: GlanceId,
 //        parameters: ActionParameters
 //    ) {
-////        updateAppWidgetState(context, glanceId) { prefs ->
+////        updateAppMaterialState(context, glanceId) { prefs ->
 ////            prefs.clear()
 ////        }
 ////        ImageGlanceWidget().update(context, glanceId)
