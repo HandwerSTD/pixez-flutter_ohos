@@ -399,20 +399,19 @@ packages:
   dynamic_color:
     dependency: "direct main"
     description:
-      path: "packages/dynamic_color"
-      ref: main
-      resolved-ref: "78667e1513de5cfd73b81ee29fe319de4eac5d85"
-      url: "https://github.com/hasali19/material-foundation-flutter-packages.git"
-    source: git
+      name: dynamic_color
+      sha256: eae98052fa6e2826bdac3dd2e921c6ce2903be15c6b7f8b6d8a5d49b5086298d
+      url: "https://pub.flutter-io.cn"
+    source: hosted
     version: "1.7.0"
   easy_refresh:
     dependency: "direct main"
     description:
       name: easy_refresh
-      sha256: "486e30abfcaae66c0f2c2798a10de2298eb9dc5e0bb7e1dba9328308968cae0c"
+      sha256: "241f92a59f5e78c6a95ff1e046dc739262d522164990426314563a43d8d7ad9c"
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "3.4.0"
+    version: "3.3.0"
   extended_list_library:
     dependency: transitive
     description:
@@ -527,14 +526,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "1.1.0"
-  fluent_ui:
-    dependency: "direct main"
-    description:
-      name: fluent_ui
-      sha256: e977a91bcf3fe9ead1366ae1a63ff32e228e074704fddbe9fe8d3241f396faa3
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "3.12.0"
   flutter:
     dependency: "direct main"
     description: flutter
@@ -576,10 +567,10 @@ packages:
     dependency: "direct main"
     description:
       name: flutter_hooks
-      sha256: cde36b12f7188c85286fba9b38cc5a902e7279f36dd676967106c041dc9dde70
+      sha256: "291fa38c0895edd448d936bd819d29096fd75f921d9b8a7d2bfd110ff3fa4f8a"
       url: "https://pub.flutter-io.cn"
     source: hosted
-    version: "0.20.5"
+    version: "0.18.3"
   flutter_inappwebview:
     dependency: "direct main"
     description:
@@ -1396,14 +1387,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "3.2.2"
-  recase:
-    dependency: transitive
-    description:
-      name: recase
-      sha256: e4eb4ec2dcdee52dcf99cb4ceabaffc631d7424ee55e56f280bc039737f89213
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "4.1.0"
   receive_sharing_intent:
     dependency: "direct main"
     description:
@@ -1444,14 +1427,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "0.1.9"
-  scroll_pos:
-    dependency: transitive
-    description:
-      name: scroll_pos
-      sha256: cfca311b6b8d51538ff90e206fbe6ce3b36e7125ea6da4a40eb626c7f9f083b1
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "0.3.0"
   share_plus:
     dependency: "direct main"
     description:

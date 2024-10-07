@@ -37,7 +37,7 @@ class _SortGroupState extends State<SortGroup> {
           ButtonSegment(value: index, label: Text(widget.children[index])),
       ],
       selected: {index},
-      onSelectionChanged: (p0) {
+      onSelectionChanged: (Set<int> p0) {
         widget.onChange(p0.first);
         if (mounted)
           setState(() {
